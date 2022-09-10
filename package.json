@@ -1,0 +1,17 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IgorMing/chat-service",
+  "author": "Igor Ming <igor.ming@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}
